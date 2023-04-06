@@ -1,3 +1,4 @@
+![CCSLOGO](https://raw.githubusercontent.com/CloutContracts/cloutcontracts.github.io/main/assets/images/c-128x128.png)
 # Dune Queries
 
 ![dashboard](https://user-images.githubusercontent.com/12502053/230250328-682a7ee7-514d-4738-bf82-5143c8a632c8.jpeg)
