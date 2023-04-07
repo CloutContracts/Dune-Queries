@@ -12,7 +12,7 @@
 
 **Polygon Network:** [0xe346502D3BB39262EE2d9D2C52c7aE7C1f98E7e8](https://polygonscan.com/token/0xe346502D3BB39262EE2d9D2C52c7aE7C1f98E7e8)
 
-**Iotex Address:** [0x6f7320e66c89F512b5c7307e1f60A21D5297E0A1](https://iotexscan.io/address0x6f7320e66c89F512b5c7307e1f60A21D5297E0A1)
+**Iotex Address:** [0x6f7320e66c89F512b5c7307e1f60A21D5297E0A1](https://iotexscan.io/address/0x6f7320e66c89F512b5c7307e1f60A21D5297E0A1)
 
 **Binance Smart Chain Address:** [0x3e3B357061103DC040759aC7DceEaba9901043aD](https://bscscan.com/token/0x3e3b357061103dc040759ac7dceeaba9901043ad)
 
