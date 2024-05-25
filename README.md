@@ -1,7 +1,8 @@
 [![CCSLOGO](https://raw.githubusercontent.com/CloutContracts/cloutcontracts.github.io/main/assets/images/c-128x128.png)](https://cloutcontracts.net)
 # Dune Queries
 
-![dashboard](https://user-images.githubusercontent.com/12502053/230250328-682a7ee7-514d-4738-bf82-5143c8a632c8.jpeg)
+![dashboard](https://images.squarespace-cdn.com/content/v1/66039e4e8ca5a628a0dc2c8a/c39fa8ab-37b0-4364-a2e6-8d605889ac28/CloutContracts+Dashboard+%281%29.jpg?format=1500w)
+
 ### Addresses
 
 **Ethereum Addresses** [0x1da4858ad385cc377165A298CC2CE3fce0C5fD31](https://etherscan.io/token/0x1da4858ad385cc377165a298cc2ce3fce0c5fd31) and [0xf79deaBc1406a3AD07c70877fBaEb90777B77E68](https://etherscan.io/token/0xf79deabc1406a3ad07c70877fbaeb90777b77e68)
